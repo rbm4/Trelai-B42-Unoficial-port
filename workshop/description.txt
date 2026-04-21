@@ -1,0 +1,11 @@
+[h1]Trelai Map 4x4 - Unofficial B42 Port[/h1]
+
+I am not the original author of this map.
+
+This is an unofficial port. If the original author wants this unofficial port removed, please leave a message or comment and I will remove it.
+
+This map was reverse engineered directly from the binaries to make it compatible from B41 to B42.
+
+It is provided as-is, with no support of any kind.
+
+The map works mostly fine, but this remains an unofficial port while the original has not been ported yet.
