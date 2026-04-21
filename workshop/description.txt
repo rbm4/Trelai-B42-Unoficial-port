@@ -1,5 +1,7 @@
 [h1]Trelai Map 4x4 - Unofficial B42 Port[/h1]
 
+Presented by: Hypothetic
+
 I am not the original author of this map.
 
 This is an unofficial port. If the original author wants this unofficial port removed, please leave a message or comment and I will remove it.
@@ -9,3 +11,18 @@ This map was reverse engineered directly from the binaries to make it compatible
 It is provided as-is, with no support of any kind.
 
 The map works mostly fine, but this remains an unofficial port while the original has not been ported yet.
+
+[h2]Source Code and Contributions[/h2]
+
+GitHub repository:
+https://github.com/rbm4/Trelai-B42-Unoficial-port
+
+If you want to help improve this mod, you are welcome to contribute through pull requests.
+
+How to contribute:
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Make and test your updates.
+4. Open a pull request with a clear description of what you changed.
+
+You can also use GitHub Issues to report bugs, broken tiles, loot/spawn issues, or B42 compatibility problems.
